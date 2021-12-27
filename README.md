@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TenousTV
 - 👀 I’m interested in Python, C++, C# and Java
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning Java and Python
 - 📫 How to reach me gabriel2005@gmx.de
 
 <!---
